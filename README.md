@@ -296,7 +296,7 @@ In practice, you should use the following pipeline: `1. Clamp 0+ ==> 2. Film Cur
 
 **Draw Characteristic Curve**: Draws the characteristic curve on-screen. The fat line in the middle is Lux-Seconds = 0.0, each vertical line is 1.0 Log10 exposure. The horizontal lines represent density in 1.0 increments.
 
-**Curve Type**: allows you to use Sigmoid of "Quadratic Sigmoid", which follows a similar shape but has a more a brupt rolloff.
+**Curve Type**: allows you to use Sigmoid of "Quadratic Sigmoid", which follows a similar shape but has a more abrupt rolloff.
 
 
 
